@@ -2,6 +2,8 @@
 
 A full-stack movie discovery app: browse trending, popular and upcoming movies, search, watch trailers, and keep your own favorites and watchlist.
 
+![MOVIEMIX home page](docs/home.png)
+
 - **Frontend:** Next.js 16, React 19, TypeScript, Tailwind CSS
 - **Backend:** FastAPI, SQLAlchemy, PostgreSQL
 - **Data:** [TMDB API](https://www.themoviedb.org/documentation/api)
